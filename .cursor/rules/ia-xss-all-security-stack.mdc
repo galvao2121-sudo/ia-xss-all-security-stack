@@ -1,0 +1,8 @@
+---
+description: "Executa checkpoints e um portão final de segurança em projetos de software"
+alwaysApply: true
+---
+
+Leia `SKILL.md` e as referências aplicáveis antes de concluir tarefas de desenvolvimento.
+
+Execute checkpoints após mudanças em autenticação, autorização, banco, APIs, uploads, pagamentos, segredos, dependências ou infraestrutura. Antes de considerar o projeto concluído ou pronto para deploy, execute o portão final. Não aprove com risco crítico/alto aberto nem quando faltar evidência indispensável. Não execute testes ativos contra produção sem autorização explícita. Nunca revele valores de segredos.
